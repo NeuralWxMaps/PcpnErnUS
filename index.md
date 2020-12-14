@@ -51,6 +51,9 @@ This page will feature a collection of forecasts leading up to a southeastern Un
 
 At 96 hours, the majority of ensemble members are clustered on the left hand side of the phase-space plot.  The blue and red clusters are a split of this primary cluster. Even so, notice that the blue cluster is very much in agreement with the mean of all ensemble members, while the red cluster has its area of heaviest precipitation displaced to the south.  The majenta cluster is the average of two outlying members on the right-hand side of the phase-space plot.  The majenta cluster has its heaviest precipitation to the northeast of the ensemble mean position. 
 <hr>
+Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
+<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Members 22-24 and 29</th>
@@ -63,9 +66,6 @@ At 96 hours, the majority of ensemble members are clustered on the left hand sid
     <td><img src="https://user-images.githubusercontent.com/75145898/102047710-f7685580-3d9a-11eb-943a-c09b4e273a37.png"></td>
   </tr>
 
-Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
-<hr>
-  
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
