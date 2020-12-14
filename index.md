@@ -108,6 +108,8 @@ At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered 
 
 At 72 hours, all members except for one are clustered on the left-hand side of the phase-space plot. The blue and red clusters are a split of the primary cluster to see if any differences might exist between the two clusters. Differences are indeed very minor.  The majenta ensemble member is also similar to the rest of the ensemble, except there is no light precipitation forecast over the Atlantic Ocean. 
 <hr>
+For the run that initialized December 10th at 00z, there were now four consecutive forecast periods with precipitation maxima at or above 13 mm, and the area covered by the precipitation event had expanded from mostly over Mississippi to include the entire southern Mississippi River Valley and the Ohio River Valley.
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2, 5, 7, 8, 11, 13, 18-20 and 23-30</th>
@@ -119,7 +121,6 @@ At 72 hours, all members except for one are clustered on the left-hand side of t
       <td><img src="https://user-images.githubusercontent.com/75145898/102107614-26101b80-3def-11eb-8d21-3dfda9b2d360.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102107640-2e685680-3def-11eb-9e92-71f1c4b4ef58.png"></td>
     </tr>
-For the run that initialized December 10th at 00z, there were now four consecutive forecast periods with precipitation maxima at or above 13 mm, and the area covered by the precipitation event had expanded from mostly over Mississippi to include the entire southern Mississippi River Valley and the Ohio River Valley.  
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
@@ -208,10 +209,141 @@ All three clusters are pretty similar to each other.
     <th>Ensemble Mean</th>
   </tr>
   <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115761-388f5280-3df9-11eb-8dff-873d8d2d4d7e.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115751-375e2580-3df9-11eb-8be1-1188ae1d55b2.png"></td>
+  </tr>
+The blue and majenta members are pretty similar to each other western New York and the eastern Great Lakes.  The plot of the individual member in the red cluster shows a local bullseye over southern Ohio.  Once again, not being a part of any cluster, this result could be considered a low probability outcome.
+<hr>
+Overall, the performance of the ensemble mean was very good through this portion of the model run.    
+<hr>
+For the model initialization on December 11th at 00z, the precipitation event was about to begin, and the periods of interest had expanded again to cover 5 forecast periods.  The 24, 30, 36 42 and 48 hour ensemble means and main clusters will be presented below. 
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 30 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115763-388f5280-3df9-11eb-8e00-d447a17d470d.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115752-375e2580-3df9-11eb-8d0a-76a40b2c727c.png"></td>
+  </tr>
+Comment for 24 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 36 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115764-3927e900-3df9-11eb-8570-f97e60bc3e10.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115753-37f6bc00-3df9-11eb-9fcf-04117887738e.png"></td>
+  </tr>
+Comment for 30 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 42 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115765-3927e900-3df9-11eb-9bee-a488d70e75e3.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115755-37f6bc00-3df9-11eb-9cb5-a2faaaa21a7b.png"></td>
+  </tr>
+Comment for 36 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 48 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115766-3927e900-3df9-11eb-84d3-60ed3b13c6e1.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102115759-388f5280-3df9-11eb-818d-185b1d983110.png"></td>
+  </tr>
+Comment for 42 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 54 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
     <td><img src=""></td>
     <td><img src=""></td>
   </tr>
-The blue and majenta members are pretty similar to each other western New York and the eastern Great Lakes.  The plot of the individual member in the red cluster shows a local bullseye over southern Ohio.  Once again, not being a part of any cluster, this result could be considered a low probability outcome.  Overall, the performance of the ensemble mean is very good through this model run.    
+Comment for 48 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
