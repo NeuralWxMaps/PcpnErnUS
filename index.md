@@ -119,7 +119,7 @@ At 72 hours, all members except for one are clustered on the left-hand side of t
       <td><img src="https://user-images.githubusercontent.com/75145898/102107614-26101b80-3def-11eb-8d21-3dfda9b2d360.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102107640-2e685680-3def-11eb-9e92-71f1c4b4ef58.png"></td>
     </tr>
-  
+For the run that initialized December 10th at 00z, there were now four consecutive forecast periods with precipitation maxima at or above 13 mm, and the area covered by the precipitation event had expanded from mostly over Mississippi to include the entire southern Mississippi River Valley and the Ohio River Valley.  
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
@@ -132,13 +132,13 @@ At 72 hours, all members except for one are clustered on the left-hand side of t
     <td><img src="https://user-images.githubusercontent.com/75145898/102104229-2b6b6700-3deb-11eb-93a8-0dd7129f0602.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102104223-2a3a3a00-3deb-11eb-8f38-3c947b543a69.png"></td>
   </tr>
-Comment for 48 hour forecast
+Even though the three identified clusters are spread across the lower portion of the phase-space plot, the extent and magnitude of precipitation over the southern Mississippi River Valley looks similar in each cluster. 
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 7, 8, 12, 13, 15, 17, 18, 20, 21, 23-27, 29 and 30</th>
-      <th>Members 9</th>
-      <th>Members 10</th>
+      <th>Member 9</th>
+      <th>Member 10</th>
     </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/102107596-20b2d100-3def-11eb-86fa-d67fd1582a5e.png"></td>
@@ -158,7 +158,7 @@ Comment for 48 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102104230-2b6b6700-3deb-11eb-973d-51e11ff97abd.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102104225-2ad2d080-3deb-11eb-8643-c4a3233f80c3.png"></td>
   </tr>
-Comment for 54 hour forecast
+The plot of the 16 ensemble members in the major cluster shows that the average is nearly identical to the mean of the entire ensemble.  The red and majenta members show the area of heaviest precipitation on the southern fringe of the heaviets precipitation.  The maximum amounts in the red and majenta members may be in excess of 25 mm, but these two forecasters are outliers from the rest of the ensemble members, so a probability of that outcome is low. 
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -185,7 +185,7 @@ Comment for 54 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102104232-2b6b6700-3deb-11eb-80c1-4c8b6a01401c.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102104227-2ad2d080-3deb-11eb-9036-b96afa7ce64b.png"></td>
   </tr>
-Comment for 60 hour forecast
+All three clusters are pretty similar to each other.  
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -211,7 +211,7 @@ Comment for 60 hour forecast
     <td><img src=""></td>
     <td><img src=""></td>
   </tr>
-Comment for 66 hour forecast
+The blue and majenta members are pretty similar to each other western New York and the eastern Great Lakes.  The plot of the individual member in the red cluster shows a local bullseye over southern Ohio.  Once again, not being a part of any cluster, this result could be considered a low probability outcome.  Overall, the performance of the ensemble mean is very good through this model run.    
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
