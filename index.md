@@ -50,15 +50,16 @@ Twenty-four hours later, the model run that initialized December 9th at 00z cont
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 22-24 and 29</th>
+      <th>Members 5, 14, 18, 21 and 28</th>
+      <th>Members 25 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047676-e6b7df80-3d9a-11eb-924e-753ea74a8bac.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047694-f0414780-3d9a-11eb-9619-d3e4377c6b67.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047710-f7685580-3d9a-11eb-943a-c09b4e273a37.png"></td>
     </tr>
+    
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -75,12 +76,12 @@ These are the forecasts for 72 hours out.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 6, 10, 17, 19, 21 and 28</th>
+      <th>Members 18, 23, 25-27 and 30</th>
+      <th>Members 29</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047678-e7507600-3d9a-11eb-940f-df2e4b1739f5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047698-f0414780-3d9a-11eb-99d1-747909ab30a0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047711-f800ec00-3d9a-11eb-851a-b67b07a4fddc.png"></td>
     </tr>
