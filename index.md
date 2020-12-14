@@ -33,5 +33,6 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/102045127-84a8ab80-3d95-11eb-91ed-5c068ccb430c.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102045125-84101500-3d95-11eb-8777-e05d339fa865.png"></td>
     </tr>
+    <hr>
 This is an analysis of the ensemble guidance leading up to a precipitation episode that occurred on December 12, 2020.  The 96 hour forecast from the December 8th 00z model run was the first one to contain precipitation amounts above 13 mm or just over a half inch. The blue and red clusters represent the bulk of the forecast represented by the ensemble mean.  The majenta cluster was the average of two outlying members clustered close to each other.  Notice how this cluster has the heaviest precipitaiton located to the northeast of the ensemble mean position. 
 <hr>
