@@ -34,5 +34,55 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/102045125-84101500-3d95-11eb-8777-e05d339fa865.png"></td>
     </tr>
     <hr>
-This is an analysis of the ensemble guidance leading up to a precipitation episode that occurred on December 12, 2020.  The 96 hour forecast from the December 8th 00z model run was the first one to contain precipitation amounts above 13 mm or just over a half inch. The blue and red clusters represent the bulk of the forecast represented by the ensemble mean.  The majenta cluster was the average of two outlying members clustered close to each other.  Notice how this cluster has the heaviest precipitaiton located to the northeast of the ensemble mean position. 
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 66 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046102-d81bf900-3d97-11eb-9f9d-e2c55067c8d4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046098-d7836280-3d97-11eb-93a7-84c61379fc54.png"></td>
+    </tr>
+Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
 <hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 22-24 and 29</th>
+      <th>Members 5, 14, 18, 21 and 28</th>
+      <th>Members 25 and 30</th>
+    </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047676-e6b7df80-3d9a-11eb-924e-753ea74a8bac.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047694-f0414780-3d9a-11eb-9619-d3e4377c6b67.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047710-f7685580-3d9a-11eb-943a-c09b4e273a37.png"></td>
+    </tr>
+    
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046103-d8b48f80-3d97-11eb-8f82-43e275fb1a77.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046100-d81bf900-3d97-11eb-9164-2a038f35f77a.png"></td>
+    </tr>
+These are the forecasts for 72 hours out.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 6, 10, 17, 19, 21 and 28</th>
+      <th>Members 18, 23, 25-27 and 30</th>
+      <th>Members 29</th>
+    </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047678-e7507600-3d9a-11eb-940f-df2e4b1739f5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047698-f0414780-3d9a-11eb-99d1-747909ab30a0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102047711-f800ec00-3d9a-11eb-851a-b67b07a4fddc.png"></td>
+    </tr>
