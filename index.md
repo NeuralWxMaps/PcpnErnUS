@@ -162,14 +162,14 @@ Comment for 54 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 6, 10, 11, 14-16, 18-20, 23, 24 and 27</th>
+      <th>Members 4, 7, 9, 17, 25, 26 and 30</th>
+      <th>Members 21, 28 and 29</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110159-10e8bc00-3df2-11eb-8e86-3ea0bb317b69.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110195-1940f700-3df2-11eb-8d86-0b7e47ab6637.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110230-2231c880-3df2-11eb-8177-119bb0cf4dc4.png"></td>
     </tr>
 
 
@@ -189,14 +189,14 @@ Comment for 60 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 18, 23, 24, 25, 27, 29 and 30</th>
+      <th>Member 10</th>
+      <th>Members 19 and 21</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110160-11815280-3df2-11eb-8691-67dd22ec29c5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110199-1940f700-3df2-11eb-8ae6-551152c2f1e2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102110232-2231c880-3df2-11eb-8bd2-d29b14a3cb32.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
