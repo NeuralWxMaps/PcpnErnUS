@@ -110,17 +110,16 @@ At 72 hours, all members except for one are clustered on the left-hand side of t
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 5, 7, 8, 11, 13, 18-20 and 23-30</th>
+      <th>Members 12 and 17</th>
+      <th>Members 4 and 21</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107593-201a3a80-3def-11eb-861c-656f36a911bb.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107614-26101b80-3def-11eb-8d21-3dfda9b2d360.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107640-2e685680-3def-11eb-9e92-71f1c4b4ef58.png"></td>
     </tr>
   
-
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
@@ -137,14 +136,14 @@ Comment for 48 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 7, 8, 12, 13, 15, 17, 18, 20, 21, 23-27, 29 and 30</th>
+      <th>Members 9</th>
+      <th>Members 10</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107596-20b2d100-3def-11eb-86fa-d67fd1582a5e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107617-26a8b200-3def-11eb-95e1-e95122bf8a5d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102107644-2e685680-3def-11eb-864e-cdd3fce062dc.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
