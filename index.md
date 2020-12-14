@@ -49,7 +49,7 @@ This page will feature a collection of forecasts leading up to a southeastern Un
     <td><img src="https://user-images.githubusercontent.com/75145898/102046098-d7836280-3d97-11eb-93a7-84c61379fc54.png"></td>
   </tr>
 
-At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered together. The red cluster is a more loosely connected clustser of solutions, and the majenta cluster is a pair of members that were off on the left hand side of the phase-space plot.  Notice how the amounts in the majenta cluster are higher than the other two clusters, along with a slight eastward extensionof the precipitation area.  
+At 96 hours, the majority of ensemble members are clustered on the left hand side of the phase-space plot.  The blue and red clusters are a split of this primary cluster. Even so, notice that the blue cluster is very much in agreement with the mean of all ensemble members, while the red cluster has its area of heaviest precipitation displaced to the south.  The majenta cluster is the average of two outlying members on the right-hand side of the phase-space plot.  The majenta cluster has its heaviest precipitation to the northeast of the ensemble mean position. 
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
@@ -76,8 +76,6 @@ At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered 
     <td><img src="https://user-images.githubusercontent.com/75145898/102046100-d81bf900-3d97-11eb-9164-2a038f35f77a.png"></td>
   </tr>
 
-At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered together. The red cluster is a more loosely connected clustser of solutions, and the majenta cluster is a pair of members that were off on the left hand side of the phase-space plot.  Notice how the amounts in the majenta cluster are higher than the other two clusters, along with a slight eastward extensionof the precipitation area.  
-<hr>
 Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -91,3 +89,5 @@ Twenty-four hours later, the model run that initialized on December 9th at 00z c
       <td><img src="https://user-images.githubusercontent.com/75145898/102047698-f0414780-3d9a-11eb-99d1-747909ab30a0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102047711-f800ec00-3d9a-11eb-851a-b67b07a4fddc.png"></td>
     </tr>
+At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered together. The red cluster is a more loosely connected clustser of solutions, and the majenta cluster is a pair of members that were off on the left hand side of the phase-space plot.  Notice how the amounts in the majenta cluster are higher than the other two clusters, along with a slight eastward extensionof the precipitation area.  
+<hr>
