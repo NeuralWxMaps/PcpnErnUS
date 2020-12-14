@@ -62,7 +62,10 @@ At 96 hours, the majority of ensemble members are clustered on the left hand sid
     <td><img src="https://user-images.githubusercontent.com/75145898/102047694-f0414780-3d9a-11eb-9619-d3e4377c6b67.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102047710-f7685580-3d9a-11eb-943a-c09b4e273a37.png"></td>
   </tr>
-    
+
+Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
+<hr>
+  
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
@@ -76,9 +79,9 @@ At 96 hours, the majority of ensemble members are clustered on the left hand sid
     <td><img src="https://user-images.githubusercontent.com/75145898/102046100-d81bf900-3d97-11eb-9164-2a038f35f77a.png"></td>
   </tr>
 
-Twenty-four hours later, the model run that initialized on December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
+At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered together. The red cluster is a more loosely connected clustser of solutions, and the majenta cluster is a pair of members that were off on the left hand side of the phase-space plot.  Notice how the amounts in the majenta cluster are higher than the other two clusters, along with a slight eastward extensionof the precipitation area.  
 <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 6, 10, 17, 19, 21 and 28</th>
       <th>Members 18, 23, 25-27 and 30</th>
@@ -89,5 +92,30 @@ Twenty-four hours later, the model run that initialized on December 9th at 00z c
       <td><img src="https://user-images.githubusercontent.com/75145898/102047698-f0414780-3d9a-11eb-99d1-747909ab30a0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102047711-f800ec00-3d9a-11eb-851a-b67b07a4fddc.png"></td>
     </tr>
-At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered together. The red cluster is a more loosely connected clustser of solutions, and the majenta cluster is a pair of members that were off on the left hand side of the phase-space plot.  Notice how the amounts in the majenta cluster are higher than the other two clusters, along with a slight eastward extensionof the precipitation area.  
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/10/20 00z 48 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+
+At 72 hours, all members except for one are clustered on the left-hand side of the phase-space plot. The blue and red clusters are a split of the primary cluster to see if any differences might exist between the two clusters. Differences are indeed very minor.  The majenta ensemble member is also similar to the rest of the ensemble, except there is no light precipitation forecast over the Atlantic Ocean. 
 <hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
