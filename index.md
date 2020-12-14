@@ -102,11 +102,117 @@ At 66 hours, the blue cluster is 4 ensemble members that were tightly clustered 
     <th>Ensemble Mean</th>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104228-2ad2d080-3deb-11eb-9693-16691d6166b2.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104222-2a3a3a00-3deb-11eb-9633-db09498303e4.png"></td>
   </tr>
 
 At 72 hours, all members except for one are clustered on the left-hand side of the phase-space plot. The blue and red clusters are a split of the primary cluster to see if any differences might exist between the two clusters. Differences are indeed very minor.  The majenta ensemble member is also similar to the rest of the ensemble, except there is no light precipitation forecast over the Atlantic Ocean. 
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/10/20 00z 54 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104229-2b6b6700-3deb-11eb-93a8-0dd7129f0602.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104223-2a3a3a00-3deb-11eb-8f38-3c947b543a69.png"></td>
+  </tr>
+Comment for 48 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/10/20 00z 60 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104230-2b6b6700-3deb-11eb-973d-51e11ff97abd.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104225-2ad2d080-3deb-11eb-8643-c4a3233f80c3.png"></td>
+  </tr>
+Comment for 54 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/10/20 00z 66 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104232-2b6b6700-3deb-11eb-80c1-4c8b6a01401c.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102104227-2ad2d080-3deb-11eb-9036-b96afa7ce64b.png"></td>
+  </tr>
+Comment for 60 hour forecast
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <th>Model RunTime:</th>
+    <th>12/11/20 00z 24 Hrs</th>
+  <tr>
+    <th>Phase-Space Plot</th>
+    <th>Ensemble Mean</th>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+Comment for 66 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
