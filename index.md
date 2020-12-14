@@ -220,14 +220,14 @@ For the model initialization on December 11th at 00z, the precipitation event wa
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 3-5, 7, 11-14, 21, 22, 28 and 29</th>
+      <th>Members 1, 15, 16, 18, 20, 23-27 and 30</th>
+      <th>Members 10 and 17</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149649-30043f80-3e2c-11eb-870a-4077174404e7.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149677-3d212e80-3e2c-11eb-8d6a-03383663739a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149699-43afa600-3e2c-11eb-8959-e6bd8b4d426f.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
@@ -246,14 +246,14 @@ Comment for 24 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2-6, 8, 9, 11, 12, 14, 16-25 and 27-29</th>
+      <th>Members 10 and 15</th>
+      <th>Members 1 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149650-309cd600-3e2c-11eb-9eec-8fb4cd2f1aad.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149678-3d212e80-3e2c-11eb-85af-58b50d17717e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102149701-44483c80-3e2c-11eb-99f2-3d81648f692f.png"></td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
