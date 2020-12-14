@@ -33,3 +33,54 @@ This is an analysis of the ensemble guidance leading up to a precipitation episo
       <td><img src="https://user-images.githubusercontent.com/75145898/102045127-84a8ab80-3d95-11eb-91ed-5c068ccb430c.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102045125-84101500-3d95-11eb-8777-e05d339fa865.png"></td>
     </tr>
+    
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 66 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046102-d81bf900-3d97-11eb-9f9d-e2c55067c8d4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046098-d7836280-3d97-11eb-93a7-84c61379fc54.png"></td>
+    </tr>
+Twenty-four hours later, the model run that initialized December 9th at 00z contained two forecast periods with precipitation maximums above 13 mm.  The next two panels will show those forecast periods. The first panel will be the forecasts for 66 hours out. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046103-d8b48f80-3d97-11eb-8f82-43e275fb1a77.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102046100-d81bf900-3d97-11eb-9164-2a038f35f77a.png"></td>
+    </tr>
+These are the forecasts for 72 hours out.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
