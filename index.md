@@ -335,18 +335,19 @@ See the comment above about similarity of shape but possible difference in magni
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
-    <th>Model RunTime:</th>
-    <th>12/11/20 00z 54 Hrs</th>
+    <th>National Precipitation Analysis</th>
+    <th>Courtesy of NOAA, NWS and ESRI</th>
   <tr>
-    <th>Phase-Space Plot</th>
-    <th>Ensemble Mean</th>
+    <th>December 12, 2020</th>
+    <th>December 13, 2020</th>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102155727-5da3b580-3e39-11eb-94b2-7c06a7ef282c.PNG"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/102155730-5e3c4c00-3e39-11eb-8229-c7956d73b575.PNG"></td>
   </tr>
 Even at 48 hours, the patterns are the same, and the magnitudes of each cluster are close to each other.  The self-organizing algorithm is able to distinguish very subtle differences between members in a non-random manner, but over the eastern United States the ensemble members seem to demonstrate less dispersion than is seen over the western half of the country.  More complex terrain out west may help explain the larger variance.  Maybe the need for detailed ensemble member analysis is less necessary for the eastern half of the country, and therefore use of the ensemble mean values is more appropriate than out west.    
 <hr>
+What actually occurred? Here are the national precipitation plots for the 24 hours ending on the morning of December 12th and December 13th. The heavy rain initially extended further west, over Louisiana in addition to the precipitation forecast over Mississippi. As the event progressed northward into the Ohio River Valley, ensemble forecasts were quite remarkable, in both location and magnitude.  
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members </th>
