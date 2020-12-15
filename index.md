@@ -271,15 +271,16 @@ Comment for 30 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 4, 5, 8-10, 13, 16 and 27</th>
+      <th>Members 6, 7, 11, 14, 15, 18, 19, 21, 23, 24, 26 and 28-30</th>
+      <th>Members 1, 3, 17, 20, 22 and 25</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151308-cf770180-3e2f-11eb-9812-46b6481b1dc7.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151321-d6057900-3e2f-11eb-945d-45da1da57329.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151335-def64a80-3e2f-11eb-8163-b20acbdfc475.png"></td>
     </tr>
+
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
@@ -296,14 +297,14 @@ Comment for 36 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 6, 12, 14, 26 and 28</th>
+      <th>Members 4, 10, 11, 15, 19-21, 24, 29 and 30</th>
+      <th>Members 7, 9, 17, 18, 22, 25 and 27</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151310-cf770180-3e2f-11eb-826b-4ba644090283.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151322-d69e0f80-3e2f-11eb-8e39-a2dfd1a8b24b.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151336-df8ee100-3e2f-11eb-8618-f29c154d0526.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
@@ -322,15 +323,16 @@ Comment for 42 hour forecast
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 6, 8, 22 and 26</th>
+      <th>Members 10-13, 19, 20, 23, 24, 28 and 30</th>
+      <th>Members 9, 25, 27 and 29</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151312-d00f9800-3e2f-11eb-9748-1b5ede0c7efd.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151323-d69e0f80-3e2f-11eb-8d21-712f9f37998d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102151337-df8ee100-3e2f-11eb-869f-c39a551730ce.png"></td>
     </tr>
+
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
     <th>Model RunTime:</th>
