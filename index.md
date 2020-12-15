@@ -242,7 +242,7 @@ For the model initialization on December 11th at 00z, the precipitation event wa
     <td><img src="https://user-images.githubusercontent.com/75145898/102115763-388f5280-3df9-11eb-8e00-d447a17d470d.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102115752-375e2580-3df9-11eb-8d0a-76a40b2c727c.png"></td>
   </tr>
-Comment for 24 hour forecast
+Not very much dispersion of ensemble members at this short range forecast.  The blue and red clusters are an arbitrary split of the large cluster on the left side of the phase-space plot.  The plots of the three clusters are all nearly identical to each other. 
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -267,7 +267,7 @@ Comment for 24 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102115764-3927e900-3df9-11eb-8570-f97e60bc3e10.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102115753-37f6bc00-3df9-11eb-9fcf-04117887738e.png"></td>
   </tr>
-Comment for 30 hour forecast
+At 30 hours, only 4 members have dispersed from the rest of the ensemble of forecasts.  And still, each of the three clusters look nearly identical to each other.  
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -293,7 +293,7 @@ Comment for 30 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102115765-3927e900-3df9-11eb-9bee-a488d70e75e3.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102115755-37f6bc00-3df9-11eb-9cb5-a2faaaa21a7b.png"></td>
   </tr>
-Comment for 36 hour forecast
+Again at 36 hours, the three clusters share similarity to each other. It is difficult to tell, but the differences between the three clusters may be due to the maximum amount of precipitation in each case.  The shape of each cluster looks the same, but the blue cluster might have more contour lines than the other two clusters, indicative of higher amounts.  
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -319,7 +319,7 @@ Comment for 36 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102115766-3927e900-3df9-11eb-84d3-60ed3b13c6e1.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102115759-388f5280-3df9-11eb-818d-185b1d983110.png"></td>
   </tr>
-Comment for 42 hour forecast
+See the comment above about similarity of shape but possible difference in magnitude.  
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -345,7 +345,7 @@ Comment for 42 hour forecast
     <td><img src=""></td>
     <td><img src=""></td>
   </tr>
-Comment for 48 hour forecast
+Even at 48 hours, the patterns are the same, and the magnitudes of each cluster are close to each other.  The self-organizing algorithm is able to distinguish very subtle differences between members in a non-random manner, but over the eastern United States the ensemble members seem to demonstrate less dispersion than is seen over the western half of the country.  More complex terrain out west may help explain the larger variance.  Maybe the need for detailed ensemble member analysis is less necessary for the eastern half of the country, and therefore use of the ensemble mean values is more appropriate than out west.    
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
