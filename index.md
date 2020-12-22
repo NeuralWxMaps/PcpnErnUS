@@ -52,7 +52,7 @@ This is an analysis of the ensemble precipitation guidance leading up to an east
       <td><img src="https://user-images.githubusercontent.com/75145898/102916829-6ac83200-4441-11eb-93bc-b042811282e1.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916821-6a2f9b80-4441-11eb-8627-c48b8ea5d8eb.png"></td>
     </tr>
-Comment on the 54 hour forecast
+The region of heavy precipitation is similar in each of the clusters.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -80,7 +80,7 @@ Comment on the 54 hour forecast
       <td><img src="https://user-images.githubusercontent.com/75145898/102916831-6ac83200-4441-11eb-9b91-5f2736cadb29.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916822-6a2f9b80-4441-11eb-8b98-edd01d1e5a28.png"></td>
     </tr>
-Comment on the 60 hour forecast
+The blue and red clusters indicated that the axis of maximum precipitation during this 6 hour period will be well in excess of 1 inch, while the mean of all ensemble members shows a maximum amount around nine-tenths of an inch.  The red cluster also has its area of maximum precipitation located a little bit east of blue's maximum axis. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -109,7 +109,7 @@ Comment on the 60 hour forecast
       <td><img src="https://user-images.githubusercontent.com/75145898/102916832-6b60c880-4441-11eb-9a19-8324ee62b492.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916824-6a2f9b80-4441-11eb-8de7-17e9ef5b663c.png"></td>
     </tr>
-Comment on the 66 hour forecast
+Preicpitation amounts in the red cluster are a little heavier than in the blue and magenta clusters.  Location of the axis of maximum precipitation seems to be similar in all three clusters. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -137,7 +137,7 @@ Comment on the 66 hour forecast
       <td><img src="https://user-images.githubusercontent.com/75145898/102916834-6b60c880-4441-11eb-9343-c6ef9a0a5778.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916825-6ac83200-4441-11eb-968f-f40789e16edd.png"></td>
     </tr>
-Comment on the 72 hour forecast
+The area of heaviest precipitation, over land has shifted up to New England.  Again the red cluster is heaviest with the amount of precipitation during this time period.  The blue cluster represents more members of the ensemble, and would therefore be the preferred forecast. But a forecaster would need to consider the possibility of the heavier precipitation that the red cluster is portraying.  With QPF amounts well over one inch, if the precipitation is falling in the form of snow with a snow to liquid ratio around 10-to-1, then we are talking about 10 or more inches of snow in a 6 hour period. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -163,7 +163,7 @@ Comment on the 72 hour forecast
     <td><img src="https://user-images.githubusercontent.com/75145898/102044442-0e577980-3d94-11eb-8653-08d1127f778f.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/102044440-0dbee300-3d94-11eb-8984-e872038b1e85.png"></td>
   </tr>
-Comment on 78 hour forecast
+By this time period, most of the precipitation shield has moved offshore, but each of the clusters still show precipitation continuing over New England. It looks like Rudolph is going to be very busy, guiding the sleigh for deliveries across the northeastern United States on Christmas Eve.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
