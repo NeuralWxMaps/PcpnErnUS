@@ -11,6 +11,135 @@
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
+      <th>12/22/20 00z 54 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916827-6ac83200-4441-11eb-873e-456d943e5c34.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916819-69970500-4441-11eb-903d-2f581480800b.png"></td>
+    </tr>
+This is an analysis of the ensemble precipitation guidance leading up to an eastern United States storm that is going to occur just before Christmas Day. It will include the forecast data from 54 hours through 78 hours after the model initialization time of 00z on 12/22/2020.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/22/20 00z 60 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916829-6ac83200-4441-11eb-93bc-b042811282e1.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916821-6a2f9b80-4441-11eb-8627-c48b8ea5d8eb.png"></td>
+    </tr>
+Comment on the 54 hour forecast
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/22/20 00z 66 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916831-6ac83200-4441-11eb-9b91-5f2736cadb29.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916822-6a2f9b80-4441-11eb-8b98-edd01d1e5a28.png"></td>
+    </tr>
+Comment on the 60 hour forecast
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/22/20 00z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916832-6b60c880-4441-11eb-9a19-8324ee62b492.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916824-6a2f9b80-4441-11eb-8de7-17e9ef5b663c.png"></td>
+    </tr>
+Comment on the 66 hour forecast
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/22/20 00z 78 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916834-6b60c880-4441-11eb-9343-c6ef9a0a5778.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102916825-6ac83200-4441-11eb-968f-f40789e16edd.png"></td>
+    </tr>
+Comment on the 72 hour forecast
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
       <th>12/8/20 00z 96 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -20,7 +149,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/102044442-0e577980-3d94-11eb-8653-08d1127f778f.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102044440-0dbee300-3d94-11eb-8984-e872038b1e85.png"></td>
     </tr>
-This is an analysis of the ensemble guidance leading up to a precipitation episode that occurred on December 12, 2020.  The 96 hour forecast from the December 8th 00z model run was the first one to contain precipitation amounts above 13 mm or just over a half inch. The blue and red clusters represent the bulk of the forecast represented by the ensemble mean.  The majenta cluster was the average of two outlying members clustered close to each other.  Notice how this cluster has the heaviest precipitaiton located to the northeast of the ensemble mean position. 
+Comment on the 78 hour forecast
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
