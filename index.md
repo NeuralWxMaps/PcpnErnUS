@@ -10,13 +10,16 @@
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
       <th>Model RunTime:</th>
       <th>12/22/20 00z 54 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102918563-618c9480-4444-11eb-8d3d-36fca10abdad.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916827-6ac83200-4441-11eb-873e-456d943e5c34.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916819-69970500-4441-11eb-903d-2f581480800b.png"></td>
     </tr>
@@ -35,13 +38,16 @@ This is an analysis of the ensemble precipitation guidance leading up to an east
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
       <th>Model RunTime:</th>
       <th>12/22/20 00z 60 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102918564-62252b00-4444-11eb-8174-661a7913a17b.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916829-6ac83200-4441-11eb-93bc-b042811282e1.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916821-6a2f9b80-4441-11eb-8627-c48b8ea5d8eb.png"></td>
     </tr>
@@ -60,13 +66,16 @@ Comment on the 54 hour forecast
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
       <th>Model RunTime:</th>
       <th>12/22/20 00z 66 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102918567-62252b00-4444-11eb-8b5b-5251db6474eb.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916831-6ac83200-4441-11eb-9b91-5f2736cadb29.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916822-6a2f9b80-4441-11eb-8b98-edd01d1e5a28.png"></td>
     </tr>
@@ -87,13 +96,16 @@ Comment on the 60 hour forecast
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
       <th>Model RunTime:</th>
       <th>12/22/20 00z 72 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102918568-62252b00-4444-11eb-8d03-55367a95fbcb.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916832-6b60c880-4441-11eb-9a19-8324ee62b492.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916824-6a2f9b80-4441-11eb-8de7-17e9ef5b663c.png"></td>
     </tr>
@@ -112,13 +124,16 @@ Comment on the 66 hour forecast
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
       <th>Model RunTime:</th>
       <th>12/22/20 00z 78 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102918570-62252b00-4444-11eb-8efe-475e30e5ba71.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916834-6b60c880-4441-11eb-9343-c6ef9a0a5778.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916825-6ac83200-4441-11eb-968f-f40789e16edd.png"></td>
     </tr>
@@ -142,7 +157,7 @@ Comment on the 72 hour forecast
       <th>Model RunTime:</th>
       <th>12/8/20 00z 96 Hrs</th>
     <tr>
-      <th>Phase-Space Plot</th>
+      <th>Phase-Space Plot of Members</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
