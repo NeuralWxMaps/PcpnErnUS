@@ -27,15 +27,16 @@ This is an analysis of the ensemble precipitation guidance leading up to an east
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 6, 25 and 26</th>
+      <th>Members 9, 16, 18, 28 and 29</th>
+      <th>Members 2, 15, 23 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926683-af0ffe00-4452-11eb-9752-a4034046eb07.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926703-b9ca9300-4452-11eb-988e-b130f22c5002.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926746-c949dc00-4452-11eb-8ebc-ac93387c378f.png"></td>
     </tr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th></th>
@@ -55,14 +56,14 @@ Comment on the 54 hour forecast
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 15, 26, 27 and 29</th>
+      <th>Members 5, 17 and 28</th>
+      <th>Member 24 </th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926684-afa89480-4452-11eb-91af-699b57d25b30.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926705-ba632980-4452-11eb-8ad7-e7aba1c07d5e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926747-c9e27280-4452-11eb-9132-1a0d72cfe020.png"></td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -83,16 +84,15 @@ Comment on the 60 hour forecast
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 6, 26 and 29</th>
+      <th>Members 5 and 28</th>
+      <th>Member 30 </th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926840-f72f2080-4452-11eb-80da-19d285313fa2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926706-ba632980-4452-11eb-85b6-f79caa5ad5c6.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926749-ca7b0900-4452-11eb-9619-156e70e12e94.png"></td>
     </tr>
-
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -113,14 +113,14 @@ Comment on the 66 hour forecast
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 5, 15, 29 and 30</th>
+      <th>Members 22 and 25</th>
+      <th>Member 27 </th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926686-b0412b00-4452-11eb-8834-efc1844924c5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926708-ba632980-4452-11eb-8a2b-1894ab71b737.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926750-ca7b0900-4452-11eb-892c-29674d1660f0.png"></td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -141,16 +141,15 @@ Comment on the 72 hour forecast
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 26 and 27</th>
+      <th>Members 17, 23, 29 an 30</th>
+      <th>Member 21 </th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926687-b0412b00-4452-11eb-9b24-e5df634e4efd.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926710-bafbc000-4452-11eb-8df9-c447b68b89b3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102926751-ca7b0900-4452-11eb-8aff-696b23be6e54.png"></td>
     </tr>
-
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
