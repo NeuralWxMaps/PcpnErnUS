@@ -7,6 +7,9 @@
     <center>Eastern United States Precipitation Forecasts
   <hr>
 
+![blue60hr](https://user-images.githubusercontent.com/75145898/103332688-3d264e80-4a28-11eb-8fa7-9d1d2e3a0621.png)
+![red60hr](https://user-images.githubusercontent.com/75145898/103332691-42839900-4a28-11eb-9d49-958af16181f4.png)
+![magenta60hr](https://user-images.githubusercontent.com/75145898/103332695-47e0e380-4a28-11eb-98b8-07878881440f.png)
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -23,18 +26,18 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/103331379-e9653680-4a22-11eb-843b-28533cf65f8c.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/103331378-e8cca000-4a22-11eb-8cc3-0de13f7163dc.png"></td>
     </tr>
-This is an analysis of the ensemble precipitation forecasts for New Year's Day over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches.   
+This is an analysis of the ensemble precipitation forecasts for New Year's Eve over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches. Forecasters in northeast Louisiana, western Mississippi and southeastern Arkansas will need to be alert for the impacts from heavy precipitation New Year's Eve afternoon.  It is also possible that the amounts of rain that fall are even heavier than the ensemble mean forecast.  Here is a review of the clusters of ensemble members, as identified by the Self-Organizing Map neural network.    
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 0-4, 6, 8, 9, 11, 12, 15-19, 21-25 and 27-29</th>
+      <th>Members 10, 13, 14 and 26</th>
+      <th>Members 7 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103332688-3d264e80-4a28-11eb-8fa7-9d1d2e3a0621.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103332691-42839900-4a28-11eb-9d49-958af16181f4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103332695-47e0e380-4a28-11eb-98b8-07878881440f.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
@@ -52,7 +55,10 @@ This is an analysis of the ensemble precipitation forecasts for New Year's Day o
       <td><img src="https://user-images.githubusercontent.com/75145898/102916827-6ac83200-4441-11eb-873e-456d943e5c34.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102916819-69970500-4441-11eb-903d-2f581480800b.png"></td>
     </tr>
-This is an analysis of the ensemble precipitation guidance leading up to an eastern United States storm that is going to occur just before Christmas Day. It will include the forecast data from 54 hours through 78 hours after the model initialization time of 00z on 12/22/2020.
+<hr>
+The tally of how many members were assigned to each neural network node shows that 23 of the 31 members were clustered in just 3 neighboring nodes.  A second cluster contained  four neighboring members.  A third cluster of members contained two ensemble members. The blue cluster is the average of the 23 members in the dominant cluster. For these plots, the plotting interval is .40 millimemters and the center of the bullseye is 40 millimeters, or 1.60 inches. This is about 30 percent higher than the mean value of ALL ensemble members, which is just over 30 millimeters, or 1.20 inches.  The ensemble mean forecast shows the possibility of heavy rainfall, but analysis of theclustered members indicates that it is quite possible that the rain will be 30 percent heavier than the ensemble mean.  The red cluster shows that the heaviest precipitation will be over western Mississippi, but will be a little lighter than the ensemble mean. The magenta cluster is similar to the blue cluster in location and amount of forecast precipitation.  
+<hr>
+Below is an analysis of the ensemble precipitation guidance leading up to an eastern United States storm that occurred on Christmas Eve 2020. It will include the forecast data from 54 hours through 78 hours after the model initialization time of 00z on 12/22/2020.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
