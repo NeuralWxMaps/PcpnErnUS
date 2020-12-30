@@ -12,6 +12,35 @@
     <tr>
       <th></th>
       <th>Model RunTime:</th>
+      <th>12/29/20 12z 60 Hrs</th>
+    <tr>
+      <th>Phase-Space Tally</th>
+      <th>Phase-Space Plot of Members</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103331380-e9653680-4a22-11eb-9557-f9ccc058487a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103331379-e9653680-4a22-11eb-843b-28533cf65f8c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/103331378-e8cca000-4a22-11eb-8cc3-0de13f7163dc.png"></td>
+    </tr>
+This is an analysis of the ensemble precipitation forecasts for New Year's Day over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches.   
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th></th>
+      <th>Model RunTime:</th>
       <th>12/22/20 00z 54 Hrs</th>
     <tr>
       <th>Phase-Space Tally</th>
