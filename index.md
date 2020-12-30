@@ -7,9 +7,6 @@
     <center>Eastern United States Precipitation Forecasts
   <hr>
 
-![blue60hr](https://user-images.githubusercontent.com/75145898/103332688-3d264e80-4a28-11eb-8fa7-9d1d2e3a0621.png)
-![red60hr](https://user-images.githubusercontent.com/75145898/103332691-42839900-4a28-11eb-9d49-958af16181f4.png)
-![magenta60hr](https://user-images.githubusercontent.com/75145898/103332695-47e0e380-4a28-11eb-98b8-07878881440f.png)
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
