@@ -10,6 +10,68 @@
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th>Model RunTime:</th>
+      <th>2/25/20 00z</th>
+    <tr>
+      <th>12 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213553-f88c0a80-776d-11eb-838d-1d9e79d91eea.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>18 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213554-f88c0a80-776d-11eb-988f-ed84e2c6cd36.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>24 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213556-f924a100-776d-11eb-850e-50317482b724.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>30 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213557-f924a100-776d-11eb-9267-62001af86e79.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213558-f924a100-776d-11eb-8419-916ec9c082a8.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>42 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213559-f924a100-776d-11eb-9430-2107d49600bf.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109213561-f9bd3780-776d-11eb-853d-ff51b0223ec5.png"></td>
+      <td><img src=""></td>
+    </tr>
+<hr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
       <th></th>
       <th>Model RunTime:</th>
       <th>12/29/20 12z 60 Hrs</th>
