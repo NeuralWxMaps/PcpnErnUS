@@ -7,8 +7,10 @@
     <center>Eastern United States Precipitation Forecasts
   <hr>
 
-Here are the neural network plots and the accompanying dominant node precipitation maps from the February 25,2021 00z GEFS model run. 
-Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse.
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. 
+Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse. 
+After 36 hours, there is some clustering of ensemble members, but as forecast lead times increase, it becomes increasingly difficult to 
+identify any dominant clusters.
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -121,7 +123,7 @@ Initially there is very little spread among the ensemble forecast members, but a
       <td><img src="https://user-images.githubusercontent.com/75145898/103331378-e8cca000-4a22-11eb-8cc3-0de13f7163dc.png"></td>
     </tr>
 <hr>
-This is an analysis of the ensemble precipitation forecasts for New Year's Eve over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches. Forecasters in northeast Louisiana, western Mississippi and southeastern Arkansas will need to be alert for the impacts from heavy precipitation New Year's Eve afternoon.  It is also possible that the amounts of rain that fall are even heavier than the ensemble mean forecast.  Here is a review of the clusters of ensemble members, as identified by the Self-Organizing Map neural network.    
+Below is an analysis of the ensemble precipitation forecasts for New Year's Eve over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches. Forecasters in northeast Louisiana, western Mississippi and southeastern Arkansas will need to be alert for the impacts from heavy precipitation New Year's Eve afternoon.  It is also possible that the amounts of rain that fall are even heavier than the ensemble mean forecast.  Here is a review of the clusters of ensemble members, as identified by the Self-Organizing Map neural network.    
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
