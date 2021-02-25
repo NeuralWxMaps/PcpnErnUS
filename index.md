@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213553-f88c0a80-776d-11eb-838d-1d9e79d91eea.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216764-2ffcb600-7772-11eb-924c-12751fc94d05.png"></td>
     </tr>
     <tr>
       <th>18 Hour Forecast</th>
@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213554-f88c0a80-776d-11eb-988f-ed84e2c6cd36.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216761-2f641f80-7772-11eb-9ab1-143eba7e8a6d.png"></td>
     </tr>
     <tr>
       <th>24 Hour Forecast</th>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213556-f924a100-776d-11eb-850e-50317482b724.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216762-2f641f80-7772-11eb-9360-7448a8b22593.png"></td>
     </tr>
     <tr>
       <th>30 Hour Forecast</th>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213557-f924a100-776d-11eb-9267-62001af86e79.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216766-2ffcb600-7772-11eb-8392-442e2c2e7a4e.png"></td>
     </tr>
     <tr>
       <th>36 Hour Forecast</th>
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213558-f924a100-776d-11eb-8419-916ec9c082a8.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216767-30954c80-7772-11eb-8544-ac98dd6ce7d8.png"></td>
     </tr>
     <tr>
       <th>42 Hour Forecast</th>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213559-f924a100-776d-11eb-9430-2107d49600bf.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216751-2e32f280-7772-11eb-9ffa-f816e959a2dd.png"></td>
     </tr>
     <tr>
       <th>48 Hour Forecast</th>
@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109213561-f9bd3780-776d-11eb-853d-ff51b0223ec5.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109216758-2ecb8900-7772-11eb-8370-7c34ce87d753.png"></td>
     </tr>
 <hr>
 
