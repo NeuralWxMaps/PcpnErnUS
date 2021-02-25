@@ -7,6 +7,8 @@
     <center>Eastern United States Precipitation Forecasts
   <hr>
 
+Here are the neural network plots and the accompanying dominant node precipitation maps from the February 25,2021 00z GEFS model run. 
+Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse.
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -68,7 +70,40 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/109213561-f9bd3780-776d-11eb-853d-ff51b0223ec5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109216758-2ecb8900-7772-11eb-8370-7c34ce87d753.png"></td>
     </tr>
+    <tr>
+      <th>54 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219439-dd70c900-7774-11eb-9ea1-a44b48e5e925.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219448-dea1f600-7774-11eb-8384-adaf11ce71ed.png"></td>
+    </tr>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219440-dd70c900-7774-11eb-87fd-86517648c08a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219444-de095f80-7774-11eb-8e5e-2a60ffc0a3cb.png"></td>
+    </tr>
+    <tr>
+      <th>66 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219441-de095f80-7774-11eb-888c-125530817b56.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219447-de095f80-7774-11eb-9ea5-fa55d73d2686.png"></td>
+    </tr>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219442-de095f80-7774-11eb-9409-04858bb39030.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109219449-dea1f600-7774-11eb-9c67-5fbdce9687f4.png"></td>
+    </tr>
 <hr>
+
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -85,6 +120,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/103331379-e9653680-4a22-11eb-843b-28533cf65f8c.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/103331378-e8cca000-4a22-11eb-8cc3-0de13f7163dc.png"></td>
     </tr>
+<hr>
 This is an analysis of the ensemble precipitation forecasts for New Year's Eve over the eastern United States. The model initialization time is 12z on 12/29/2020. The Self-Organized Map Node showed a 6-hour precipitation bullseye of 40 millimeters, which is 1.60 inches.  The ensemble mean forecast had a bullseye value around 30 millimeters, or 1.20 inches. Forecasters in northeast Louisiana, western Mississippi and southeastern Arkansas will need to be alert for the impacts from heavy precipitation New Year's Eve afternoon.  It is also possible that the amounts of rain that fall are even heavier than the ensemble mean forecast.  Here is a review of the clusters of ensemble members, as identified by the Self-Organizing Map neural network.    
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
