@@ -8,7 +8,6 @@
   <hr>
 
 Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run. 
-<hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
