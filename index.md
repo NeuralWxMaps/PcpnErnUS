@@ -19,7 +19,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405080-f8386e80-7929-11eb-916a-9bf59461d2c4.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405674-418bbc80-7930-11eb-8246-125e8997cb01.png"></td>
     </tr>
     <tr>
       <th>18 Hour Forecast</th>
@@ -27,7 +27,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405081-f8d10500-7929-11eb-95b3-e99e5a395de2.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405675-418bbc80-7930-11eb-8e9d-dec00f5e0678.png"></td>
     </tr>
     <tr>
       <th>24 Hour Forecast</th>
@@ -35,7 +35,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405082-f8d10500-7929-11eb-9303-107c51c6344e.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405677-42245300-7930-11eb-8d80-fc933cd53daa.png"></td>
     </tr>
     <tr>
       <th>30 Hour Forecast</th>
@@ -43,7 +43,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405084-f8d10500-7929-11eb-95bf-ba5a50279177.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405678-42245300-7930-11eb-902b-7c4453acb8d5.png"></td>
     </tr>
     <tr>
       <th>36 Hour Forecast</th>
@@ -51,7 +51,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405085-f8d10500-7929-11eb-897c-1af19a48abd7.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405673-40f32600-7930-11eb-8a55-1d95553848fd.png"></td>
     </tr>
     <tr>
       <th>42 Hour Forecast</th>
@@ -59,7 +59,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405086-f9699b80-7929-11eb-985a-ab1da9123f46.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405681-42bce980-7930-11eb-9a7e-5b196decdb95.png"></td>
     </tr>
     <tr>
       <th>48 Hour Forecast</th>
@@ -67,7 +67,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405087-f9699b80-7929-11eb-9c12-79b2d9318987.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405671-40f32600-7930-11eb-943b-f64907c48c49.png"></td>
     </tr>
     <tr>
       <th>54 Hour Forecast</th>
@@ -75,7 +75,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405088-f9699b80-7929-11eb-9bf1-7c5afb526248.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405672-40f32600-7930-11eb-876e-3a90919cebff.png"></td>
     </tr>
     <tr>
       <th>60 Hour Forecast</th>
@@ -83,7 +83,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405089-f9699b80-7929-11eb-9e42-1dd6d134d57f.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405679-42245300-7930-11eb-81f7-654758af67c1.png"></td>
     </tr>
     <tr>
       <th>66 Hour Forecast</th>
@@ -91,7 +91,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405090-fa023200-7929-11eb-8350-b6707c124178.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405679-42245300-7930-11eb-81f7-654758af67c1.png"></td>
     </tr>
     <tr>
       <th>72 Hour Forecast</th>
@@ -99,7 +99,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109405091-fa023200-7929-11eb-9345-d74e6d1a145d.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405680-42bce980-7930-11eb-90c5-8e837ba90b9f.png"></td>
     </tr>
 
 <hr>
