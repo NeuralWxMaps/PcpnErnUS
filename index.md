@@ -7,6 +7,102 @@
     <center>Eastern United States Precipitation Forecasts
   <hr>
 
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run. 
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/27/21 12z</th>
+    <tr>
+      <th>12 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405080-f8386e80-7929-11eb-916a-9bf59461d2c4.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>18 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405081-f8d10500-7929-11eb-95b3-e99e5a395de2.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>24 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405082-f8d10500-7929-11eb-9303-107c51c6344e.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>30 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405084-f8d10500-7929-11eb-95bf-ba5a50279177.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405085-f8d10500-7929-11eb-897c-1af19a48abd7.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>42 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405086-f9699b80-7929-11eb-985a-ab1da9123f46.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405087-f9699b80-7929-11eb-9c12-79b2d9318987.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>54 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405088-f9699b80-7929-11eb-9bf1-7c5afb526248.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405089-f9699b80-7929-11eb-9e42-1dd6d134d57f.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>66 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405090-fa023200-7929-11eb-8350-b6707c124178.png"></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109405091-fa023200-7929-11eb-9345-d74e6d1a145d.png"></td>
+      <td><img src=""></td>
+    </tr>
+
+
 Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. 
 Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse. 
 After 36 hours, there is some clustering of ensemble members, but as forecast lead times increase, it becomes increasingly difficult to 
@@ -15,7 +111,7 @@ identify any dominant clusters.
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>2/25/20 00z</th>
+      <th>2/25/21 00z</th>
     <tr>
       <th>12 Hour Forecast</th>
       <th>Dominant Node</th>
