@@ -8,12 +8,12 @@
   <hr>
 
 
-Here are the neural network plots and accompanying dominant node precipitation maps from the March 4, 2021 00z GEFS model run. 
+Here are some neural network plots and accompanying dominant node precipitation maps from selected GEFS model run. 
 <hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>2/27/21 12z</th>
+      <th>3/4/21 00z</th>
     <tr>
       <th>12 Hour Forecast</th>
       <th>Dominant Node</th>
@@ -79,8 +79,6 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <td><img src="https://user-images.githubusercontent.com/75145898/110038715-5c2daf00-7cfd-11eb-8572-fae84242b896.png"></td>
     </tr>
 
-<hr>
-Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run. 
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
